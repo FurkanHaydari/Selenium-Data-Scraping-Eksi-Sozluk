@@ -1,0 +1,488 @@
+1.
+softwarein turkcesi.
+********************************************
+2.
+program, uygulama vs herseyi iceren bir kavram
+********************************************
+3.
+http://www.yazilimarsivi.com/
+********************************************
+4.
+tarihinde hiç olmadığı kadar farklı bir döneme girmiş; sihir ile eşdeğer acaip olay.
+********************************************
+5.
+(bkz: yazilim muhendisligi)
+********************************************
+6.
+sıfır-bir sayısal ifadelerinin mantıklı ifadeler haline çevrilip, ekrandaki izleyicinin işine yarayacak şekile getirilmesi...
+********************************************
+7.
+en basitinden: console.writeline("hello world");
+
+yıllar sonra gelen edit: tanım eklendi.
+********************************************
+8.
+şunları kapsamakta(ymış):
+
+• bilgisayar programları,
+• bu programlara ayar çekmeye yarayan konfigürasyon dosyaları,
+• kullanıcı dokümantasyonu,
+• destek hizmeti,
+• sistem dokümantasyonu.
+********************************************
+9.
+(bkz: the joel test)
+********************************************
+10.
+heyecanla başlanan projelerinin bir çoğunun yazılım sürecinde haddinden fazla büyümesi nedeniyle tamamlanamaması gibi bir sıkıntısı vardır.
+********************************************
+11.
+bir elektronik mühendisi gözünden, bilgisayar yazılımları bir orkestra şefine benzer. tek başınıza veya birkaç arkadaşınızla da enstrüman çalabilirsiniz (bir kaç transistörlü bir devre tasarlamak ve çalıştırmak), fakat daha karmaşık bir yapının senkronizasyonu için bir şefe (yazılıma) ihtiyaç duyulur. bu açıdan yazılım, bir çeşit (donanımdan) soyutlama işlemi olarak düşünülebilir.
+
+peki bu soyutlamanın güvenli tül perdelerinin arkasından donanıma donanım olmadan yaklaşmak, yani bilgisayara sadece yazılım geliştirme açısından bakmak yeterli olabilir mi? bu soruya farklı kişiler farklı cevaplar veriyor, bazıları her yazılım geliştiricisinin yazılım geliştirdikleri ortamda kullanılan işlemcinin mimarisi hakkında en azından genel kültür seviyesinde bilgi sahibi olmasının, ortaya çıkacak uygulamaların performansını arttıracağını savunurken (özellikle alt seviyeli uygulamalarda), üst seviye diller kullanan diğer geliştiriciler bunun artık hiç gerekli olmadığını savunmakta.
+********************************************
+12.
+ingilizcesi "software" olan ve aydın köksal tarafından türkçeye "yazılım" olarak çevrilmiş olan terim.
+********************************************
+13.
+türkiye'nin sadece askeri teknoloji kategorisinde değil her anlamda çok ama çok fena halde ıskaladığı alandır. bu ıskanın sürekli şikayet ettiğimiz cari açığın hizmetler bölümüne yansıması hiç analiz edildi mi bilmiyorum, ama orta vadede bu alana yeterli yatırımı yapmazsak ağlamaktan gözümüzde yaş kalmaz. zira dünyada hala bu alanın outsource edilmesi anlamında çok büyük bir açık mevcut.
+********************************************
+14.
+insanın bilgisayarsız da yapacağı bir işi bilgisayarla yapmasını sağlayan bir şey değildir.
+insanın bilgisayarsız zorlanacağı bir işi bilgisayarla kolaylaştırmasını sağlayan bir şey de değildir.
+insanın aklına gelmeyecek yöntemleri mühendislerin ona öğretmesidir.
+********************************************
+15.
+30 yıl önce devletimize göre yazılımın birimi metreymiş.
+
+(bkz: ali akurgal/@citoffig)
+
+yıllarca yazılım isleri ile ulastırma bakanlığının ilgilenmesinin bir sebeb-i hikmeti varmis yani.
+********************************************
+16.
+donanım kelimesi ile birlikte dilimize kazandırılmış iki muhteşem çeviriden biridir.
+********************************************
+17.
+bu işe gönül verdi iseniz sık sık "bizim bir arkadaş da senin gibi internetten işler yapıyor aslında hep tanıştırmak istiyorum sizi" vs. cümleler duyarsınız. bunu en son bir domates tüccarı söyledi bana. bre dürzü ben seni gördüğüm her manav ile tanıştırıyor muyum? halk gözünde oturduğu yerden para kazanan adamsınız sanırım.
+********************************************
+18.
+12 yıldır yazılım sektöründe çeşitli ölçekte firmalarda çalışmış, home office, freelance, şirket vs. her tür olayı denemiş, türlü ortaklıklar, türlü projeler yaşamış biri olarak yazılım ve yazılım sektörü hakkında bazı şeyler söyleyebilirim sanıyorum.
+
+evet işini iyi yapmayan insanlar var, dolandırıcılar bile var tamam ama her sektörde olduğu kadar. insanların kendini aldatılmış, beklentileri karşılanmamış hissetmeleri biraz da bu konulara olan yabancılıkları, soyut bir süreci ölçmenin ve bu sürece dahil olmanın getirdiği zorluklar, aşırı beklentiler, ne istediğini tam olarak bilememe ve ifade edememe durumundan da kaynaklanıyor.
+
+benden ya da firmamdan özel yazılım çözümleri geliştirmemi isteyen firmalar ile yaptığım görüşmelerde genelde vardığım sonuç yaşadıkları sıkıntıların temelde %80 kadar yazılımdan değil kendi süreçlerini yanlış
+yönetmeleri, değişen ihtiyaçlara göre kendilerini adapte edememelerinden kaynaklandığını görüyorum.
+
+yazılımın onlara yeni bir iş yapış biçimi, sistem getirmesi beklentisi içinde oluyorlar ki doğal olan da bu ama süreçlerine dair çözümleri sizin sunmanızı bekliyorlar lakin karşılarında çok iyi derecede yazılım bilgisi olan bir mühendis olsa dahi kendi işinizi sizin kadar bilen biri olmadıkça, o işletme kültürünü tanımadıkça, o havayı belli müddet teneffüs etmedikçe size beklediğiniz çözümleri sunamayacaktır.
+
+dolayısı ile bu tarz projelerin çok önemli bir kısmı ya tamamlanamamakta ya da beklenen faydayı sağlayamamaktadır,başarıya ulaşan özel projelerin ne istediğini bilen, kötü de olsa hatta el yordamıyla bile olsa işleyen tanımlanmış ya da en azından tanımlanabilen süreçlere sahip işletmelerde yapıldığını görürsünüz.
+
+ülkemizde genel olarak tüm sektörlere kobilerin hakim olduğunu ve dolayısı ile özellikle küçük yazılım evleri ve freelance çalışanların potansiyel müşterilerinin kobiler olduğunu düşünürsek özel yazılımların neden başarısız olduğu da apaçık ortadadır.
+
+tamam iğneyi kendimize batıralım (ki evet batırılacak çok nokta da var) ama sorun sadece iş bilmeyen yazılımcı, kurumsal olmayan yazılım firması, para kazanamayan mühendis sorunu değil, bunu da bilelim.
+********************************************
+19.
+türkiyede ilerlememesinin sebebi, [bu http://www.jqueryharita.com/] ve bunun gibi sebepler yüzündendir. 40 lira kazanacağım diye domain falan alıp binlerce yerde mit lisanslıyla olan haritalardan birini copy edip "tamam lan zenginiz" kafası yüzündendir. şark kurnazlığı bitmedikçe bırak yazılım sektörü hiç bir sektör bir arpa boyu yol ilerleyemez.
+
+birileri artık özgür yazılımın önemini anlatsın ve "bilgi paylaştıkça büyür" bunu da unutturmasın.
+********************************************
+20.
+şöyle bir söylem var, deniyor ki "tecrübe her şeyden önemli". tecrübe elbette yazılım açısından çok önemli, problemlerle karşılaşarak bir şeyin en iyisini yapmayı öğrenirsin çünkü, fakat tecrübeyi her şey olarak kabul etmek, her köşenin birilerinin çiftliği olduğu, herkesin de kendi adamını saydığı, ona göre kök saldığı bir coğrafyada intihar etmekle eş anlamlı.
+
+tecrübe her şey dersek, yaşamak ve paramızı çıkarmak için çalıştığımız şirketin kaderimizi çizdiğini, kaderlerden kader beğendiğimiz kabul etmiş oluruz. tecrübenin her şey olması, şirketin size vereceği projelerin her şey olması demektir. bu ayrıca, projenin önemli kısımlarında yer alıp almadığınızın her şey olması demektir. e o zaman, doğru yerde doğru zamanda doğru insanlarla değilsen, bir hiçsin, hiç olacaksın ve bunu değiştirmek için ihtiyaç duyacağın tecrübeyi asla kazanamayacaksın gibi bir sonuç çıkıyor. bu düşünceyi kabul etmeyi geçtim, bu düşüncenin söylenmesi dahi katlanılamayacak kadar budalacadır.
+
+sen şimdi çık, java kitabını hatmet, oracle dokümantasyonunu baştan sonra bitir, bir daha bitir, veri yapılarını tek tek implemente et, design patterns, solid allah ne verdiyse oku, uygula, kalın kalın runtime kodlarını yazan java guru'larının kitaplarını baştan sona oku, bunların hepsinin pratik uygulamalarını yap, her gün stackoverflow'dan 2-3 soru çöz, cevaplanmış soruları da tek tek anlamaya çalış, her birini pratik olarak deneyimle ve iş hayatında birilerinin adamı olmadığın için ya da başka sebeplerden kazanamadığın tecrübe, tüm bunları yoketsin ha?
+
+yani bu durumda ülkemizde zaten kepaze olan yazılım kültürünün network sahibi tiranlarının elini güçlendirmekten başka hiçbir anlam ifade etmeyen bu tecrübe meselesini gözümüzde büyüttüğümüz an, bireyin varlığının ve bakış açısındaki, ya da pratikteki farklılığının anlamsızlaştığı allahın belası bir cehennemde buluyoruz kendimizi.
+
+ayrıca yazdığı kodlarda kodlama konvansiyonlarına uymayan, kafaya göre yazan, düzensizliği ve amaca giden yolda iş bitirmek mübahtır mantığıyla ne kadar soyut konu/kavram varsa gereksiz gören süper özgüvenli yazılımın mahalle bitirimleri de anında tecrübeyle her şeye sahip olmuş oluyor.
+
+samimi söylüyorum şu ni en kısa sürede yapsınlar, yeryüzünde modern çağlarda yaşanmış en büyük doğal seleksiyonun ülkemizde gerçekleşmesini sabırsızlıkla beklemekteyim. bu zihniyet, yaşamayı haketmiyor.
+********************************************
+21.
+is yetissin diye (onlarin da sucu yok) yaptigi isi sabunlayan ve sonucunda t sure kazandiysa 3t zamani sabunlanan yerdeki bug'i bulmakla kaybeden, 4 sene profesyonel web development yapip thread safe'in ne oldugu konusunda yorum bile yapamayan, request response'tan bihaber; is gorusmelerine "is gorusmelerinde sorulan sorular"'i ezberleyerek giren ve yine profesyonel yasaminda ezberledigi seylerin kiyisindan kosesinden gecmeyen seyler yapan, 7 - 8 sene ayni kutuphaneyi kullanip en ufak bir sorun cozumu, katki, fikir babinda herhangi bir sey saglayamayan, ayni kutuphanenin nasil calistigina dair yine bir fikri olmayan, bu yuzden kendi isini bile dokumante etmekten aciz; iyi para var diye 6 aylik sikindirik .net egitimi alip direkt 6 - 8 bin lira maas ile baslayacagini dusunen yazilimcilardan dolayi turkiyede gelisemeyecek sektor.
+
+burada nitelik degil nicelik onemli cunku.
+********************************************
+22.
+ülkemizde,
+dolmuşçulardan ve taksicilerden sonra gelen en pis, en sözünde durmaz, en katekulleci ve en egotavan-icraatsıfır meslek grubudur.
+
+takribi %15 ini tenzih ederim.
+********************************************
+23.
+düşünce ürünü. soyut ve elle tutulmayan. bir dönem oldukça gizemli bir sektör olarak görülse de
+artık oyunlar, internet , medya , iş hayatı , iletişim ve cep telefonlarımızın içersinde gündelik yaşamımızı derinden etkileyen güç.
+
+ideal üretim koşulları sağlanamazsa yazılım insanı çileden çıkartıp bitmek bilmeyen bir kaosa sürükler. doğru üretim sürecinde yazılım tutku ve heyecanla üretilir.
+********************************************
+24.
+yazılımla alakalı bir bölümden mezun olup, bu konuda iş arayan ama bulamayan idealist insanlar için ;
+
+ülkemizde doğru düzgün yazılım yapılmamaktadır, önce bunu kabullenin. bunu neden diyorum, çünkü eğer bunu kabullenmezseniz, çevrsel şartların sizi dönüştüreceği bir süreç içinde kaybolup gideceksiniz (sizden öncekiler, bizler, hepimiz gibi).
+
+dahası yazılımın bacasız bir sanayii, para kazandıran bir meslek olduğunu, buradan para kazanmanın şartı olan katmadeğeri sağlayabilmeki için teknik olarak yol almak, emek harcamak gerektiğini ne ülkemizdeki para sahibi zenginler, ne de yazılımcılar yeterince anlayamamaktadır. bu meslekte herkes potansiyel bir girişimcidir, ortaktır, tek başına istihdam yaratabilme potansiyelini barındırır. fakat bunlara rağmen, ülkenin en gelişmiş kurumlarında yazılım geliştirmenin en kötü pratiklerinin uygulanması, geri kalmışlığa ve bilinçsizliğe dayanan ayrıca sınıfsal statükodan kaynaklanan bir yozlaşmanın yansımasıdır. eğer para yapan bir firma varsa, boşa harcayacak çok parası vardır, niteliksiz iş gücü, o firmanın teknik üstünlüğünden değil, o firmanın teknik üstünlüğe ihtiyaç duymayan bir monopoli içinde olmasından ileri gelir.
+
+bütün bunları işsiz olan arkadaşlar için yazyorum, ben de potansiyel bir işsiz olarak görüyorum kendimi ve bundan gocunmuyorum da. nedenini de izah edeyim;
+
+işsiz olduğun için canı sıkılıyor, kendini işe yaramaz hissediyorsun ya, eğer tek mesele buysa, ailenin yanında kalabiliyorsan, bilgisayarınla çalışmak gibi bir ortamın varsa (parasızlığa rağmen), o zaman şansız sayılmazsın. büyük heveslerle kendi potansiyelini gerçekleştirmek için firmalara giren, ve sonucunda istedikleri projeyi/maaşı/konumu elde edemeyince firmaya kızıp sabahtan akşama futbol özetleri izleyen insanlar da gördüm, istediklerini elde ettikten sonra kendi mesleğini aşağılayana da şahit oldum. o yüzden bugüne kadar birçok tecrübeli insanın söylediği şu düşünceyi tamamen budalaca buluyorum;
+
+"insanı proje geliştirir, firma geliştirir, adama harikulade bir proje verirsin ve uçar gider. öte yandan istediğin kadar çalış, iyi bir proje alamazsan kendini geliştiremezsin"
+
+ben bu yanlış bulduğum için yanlış bulunmuş bir mühendisim, hala ve öncesinden daha da ısrarcı olarak bu düşüncenin dışarı olan bağımlılığını insanın potansiyelini hakir gören çokça atıl ve bağnaz bir düşünce olarak görüyorum.
+
+yazılımcı (çokça) evde geliştirir kendini, iş hayatında yaşayabileceği problemlerin simülasyonunu, benzerlerini, kısmen yaratabilir, bu esnada kendi kendine öğrenecekleri, iş hayatında karşısına çıkabilecek tecrübeden daha önemli olmasa da, öğrenme açısından daha önemlidir. zaten belirli kavram, paradigma, problem ve çözümleri, pratikleri öğrenmeden eline geçen tecrübenin sorunun mahiyetini de anlayamaz insan.
+
+dahası, dünya çapında bir yazılımcı olmak için gerekenlere ülkemizde zaten uyulmuyor, (çokça, istisnalar kaideyi bozmaz), tdd'ye birebir bağlı kalarak gitmek, adamakıllı agile metodolojisini uygulamak falan yok buralarda. bir ekip olarak herkesin tasarım patternleriyle konuştuğuna şahit olmadım, olanı da duymadım. o halde balık baştan kokar, sorunun kaynağı, kötü çözüleri besleyen ve firmaları buna zorlayan pazardan ileri gelmektedir.
+
+işte durum buyken en iyi firmaya girsen, gene kötü bir yazılımcı olabilirsin, fakat evde kaldığın ve kendini işe yaramaz hissettiğin o değerli vakitte kendini geliştirirsen, kitap okursan, okuduğun kitaptaki tüm kod örneklerini uygularsan (yazarak), internetteki bedava kaynakları sömürürsen (ingilizce bilindiğini varsayıyorum), bu durumda 3 senede en iyi firmada alacağın yolu evde 6 ayda alırsın, beşte biri vakitte.
+
+2 sene daha mı işsiz kaldın, o 2 sene içinde bir ürün yapıp internete koyamıyorsan zaten yazılım yapma, bunları takip etmek niyetinde değilsen gerçekten yazılıma da girme, başka bir meslek yap, mesele sadece para kazanmak ise alınan eğitim ya da bulunan işin bir önemi yok ki. ama mesele yazılım ile bir şeyler yapmak, bunu bir disiplin, bir zanaat olarak benimseyerek yol almak ise (ki bu insanı işe yarar da hissettirir), ailenin yanında geçireceğin o vakitler altından değerli olacaktır ve seni diğer tüm yazılımcılardan farlı biri yapacaktır.
+
+ben biliyorum elbet, "aman ne bu ya" diyenler ağırlıkta olacak, halbuki burada altın yumurtlayan tavuğu (ben de daha ekmeğini yiyemdim ama inanıyorum, yazılım altın yumurtlayan tavuktur) izah etmeye çalıştım, ülkenin içinde bulunduğu çıkmazın yarattığı rüzgarın önemsizliğine vurgu yaptım, bir kişi bile burada bahis ettiğim şeyi değerli görüyorsa bu önemlidir, bir girişimci, yazılımcı, yani kaleci-oyuncu modunda ilerlemek isteyen bir insan ihtimali çıkmıştır ortaya.
+********************************************
+25.
+çoğu kişinin ekmek teknesi
+********************************************
+26.
+elektronik aletlere hayat veren kod parçacıklarıdır. yazılım ile uzaya uydu gönderebilir, size özel konuşan sanal bir asistan yapabilirsiniz. e tabi bu tür işleri yapabilecek bir cihazınız bulunuyorsa...
+********************************************
+27.
+(bkz: post processing/#59324496)
+********************************************
+28.
+her isteyen kişinin anlayamayacağı hadisedir.
+
+vakti zamanında yazılım kursuna gitmiştim. 36 kişi başlayan kursta bitime doğru sadece 8 kişi kalmıştı. çünkü biryerden sonra anlayamayanlar kursu bırakmışlardı.
+
+yani bu işe yatkın bir zekanız, yeteneğiniz falan yoksa hiç bulaşmayın.
+********************************************
+29.
+(bkz: iş hayatı/#61123671)
+********************************************
+30.
+https://twitter.com/…oglu/status/771237976659546113
+********************************************
+31.
+sosyal bilimci olarak acayip imrendiğim iş. hayatımı kolaylaştıran muhteşem bir dünya. ofiste bana bir iş patladı. 2 ay boyunca her gün kesintisiz 5 saatimi harcayacağım bir güncelleme. bir tür veri girişi. mesai mesaidir sorun yok yapacağım. ama sıkıldım. bilgisayar mühendisi bir arkadaşa durumu anlattım anlatmam 10 dakika sürdü. ben anlatırken o kafasıyla ve gözüyle havaya kodlar yazmaya başlamıştı bile. sonra kapandı 5 saatini harcadı. bir kod yazdı ve ve bir panel açtı bana. aynı işi her gün 10 dakika ayırarak hallettim. gün başına 4 saat 50 dakika kazandım. işte bunlar hep yazılım.
+********************************************
+32.
+hoştur kendisi
+********************************************
+33.
+www.epaksoft.com yazılım hizmet firması
+********************************************
+34.
+1999 yılından beri yaptığım meslektir yazılım. yazılımcı olmak için analitik düşünce ve çok sevmek gerekir. yeni başlayacaklar için internet denilen alemde bir çok eğitim mevcut. (birazcık matematik ve ingiliççe şart)
+********************************************
+35.
+eğer yazdıklarımı görebiliyorsan kesinlikle c sharp tavsiye ederim. c sharp ile kod yazmak şiir yazmak gibidir. internette sınırsız kaynak da cabası.
+********************************************
+36.
+dun aksam 6 dan beri ugraştığım hibernate spring jsf isleminde aldigim hatayi duzeltmek icin cildirdigim durum
+
+hala nullpointer
+offf amina koyim offf
+********************************************
+37.
+cok buyuk bir sektordur. yazilim insanlarin ihtiyaclari icin yapilir, ihtiyaclari en iyi karsilayanlarla is surdurulur.
+
+ben simdi gidiyorum yazilim yapcam seklinde yapilmaz. hele hele, hic bir ciddi sirket, yazilimci ariyoruz, c sharp bilsin diye aramaz. insanlar isinin uzmanina, spesifik olarak bir konuda isini bilen insanlari arar, bunlara tonla para oder. bir nevi (bkz: pr)dir ayni zamanda. az zamanda cok is ve kaliteli is yapip, musterinin ihtiyacini en verimli sekilde karsilama muhendisligine, yazilim muhendisligi denir.
+
+tabii bunun alt dallarinda, tamamen kendini teknik konulara adayan insanlara rastlayabilirsiniz. ama bu tip muhendislere ihtiyac o kadar fazla degil.
+********************************************
+38.
+arasına bi 2 sıkıştıramadınız gitti :))))
+(ciddi cevap verip sataşmayalım)
+********************************************
+39.
+ok ucundan bu hede'ye nasıl geliriz? biraz inceleyelim.
+
+seviye 1: taş yontmak
+insan'ın başlangıcı, kesici aletlerle birleşik bir zamanda gelişmiş gibidir. ilk zamanlarında hayvanları öldürmek, derilerini yüzmek için kullanılan bu cisimler, en eski alet örneklerindendir. alet yapma becerisi, insanların en üstün olduğu konulardandır. bir çubuk verilen maymun, çubukla vurarak muzu dalından düşürebilirken, insan bundan çok daha kompleks aletleri üretebilmekteydi.
+
+seviye 2: demir dökmek
+yerleşik hayatın sembolü olabilecek olan ilk şeyler, metal işçiliğidir. lar aslında tarihte bu noktadan itibaren üretilmiştir, ve da bu zamanda üretilmiş olup, hala makineleşmemiş tarım yapılan yerlerde kullanılan aletlerdir. neredeyse hiç değişmemişlerdir.
+
+seviye 3: buğday kaydetmek
+, kolayca insanlığın en önemli buluşu olarak kabul edilebilir. insan, bu ana kadar ailesinden, veya yerleşim birimindeki yaşlılardan öğrendiği bilgiler, kulaktan dolma şekilde gelen efsaneler ve bozunmaya uğramış hesaplarla uğraşırken, kayıt altında tutulan bilgi, yıllari on yıllar hatta yüz yıllar boyunca bozulmadan saklanabilmekte, çok daha kompleks bilgiler bozunmaya uğramaması için korunabilmekteydi artık.
+
+seviye 4: astronomlar, gökyüzü ve
+gemileri çoktan icat etmiş insan, artık gemilerini uzak mesafelere götürebilme çabası içerisindeydi. bunu başaran tüccarlar, değerli baharatları yok pahasına alıp, anavatanlarına getirerek zengin olmakta idiler. bunu başarmalarını gökyüzündeki yıldızları tanıyabilme, ölçebilme ve buna göre yönlerini tayin edebilme becerilerine borçlu idiler. bu bilgiye sahip olmaları da, 3. seviyeden gelen yazı ile aktarılan bilgi topluluğu ile mümkün olmuştur. bu olgu takip edilirse, şu anki 'lara, iss'ye kadar gider, fakat yolda daha önemli parçalarını da toplamıştır.
+
+seviye 5: bilgi devrimi
+açlıktan kırılan avrupalılar, çorak topraklar ve yetersiz sulama sistemleri, bataklık, sıtma, ölüm ve başta her zaman uğuldar gibi gelen bir vaaz. rönesans bu şartlarda oluştu. akılcı düşünme, ve akılcı bilim bu zamanlarda ilerledi. ha, tabii ki, artık bilgi de taş tabletlerde falan saklanmıyordu artık. kitaplar normalleşmişti. bu seviye takip edilirse, tablet->kitap->? şeklindeki ilerlemenin sonunda ve alışkın olduğumuz dosyaları yatar. tabi ki, bundan önce bir iki şey daha yoldan toplanmalıdır.
+
+seviye 6: elektrik ve transistör
+ara seviye olan elektrik'in keşfi ve ilkel piller, artık gözümüze çok normal gözükseler de o zamanlar için eşi benzeri olmayan fiziki fenomenlerdi. elektriğin hesaba dökülmesi de ilk kontrol elemanlarına, ön ayak oldu. kontrol elemanı, bir değişkeni kendisi cinsinden kontrol edebilmeye, akışına müdahale etmeye yarayan şeydir. mesela vana kısmından suyun geçip geçmemesine bağlı olarak vanayı açıp kapatan bir sistem yapabilirseniz, bu sistemle hesap da yapabilirsiniz. bunun elektrik için olan uyarlaması ise ilk başlarda elektron tüpleri, bunun da gelişimi ile 20. yüzyılın en önemli icadı sayılabilecek dür. çılgın elektrik mühendisleri, kılıçlarını yeterince bilemişlerdir artık. bilimin hükmü resmen başlamıştır. bundan binyıllar önce ellerinde kalemlerle hesap yapan mısır imparatorluğunun memurları, hesabın kendisini kendi kendine yapabilecek aletleri geliştireceğimizi düşünmüyordu tabii ki. fakat bunu başardık. nazilerin kodları da bu gelişmelerden nasibini aldı. elektriğin mekaniği geçtiği zamanlar tam da budur. (bkz: ) (bkz: )
+
+seviye 7: transistör üstü transistör, üstel akım
+transistörlerin birleştirilmesi ile gelen devreler, entegre devreler, entegre elektronik bu çağın en önde giden, ve tüm bilim dallarında çığır açan konseptlere dönüşmüşlerdir. evlere kadar giden bu elektriksel cihazlar,artık kullanıcı müdahalesine de açıklardır. bununla beraber, kullanıcılar, artık hiçbir insanın yetişemeyeceği hızda hesap yapabilen bu küçük kum tanecikleri ile uğraşmaya her yandan başlamışlardır. gittikçe daha hızlı, ve daha kompakt makineler üretilirken, kullanıcılar da kendi teknolojilerini geliştirmektedirler. şu anki çağa, akıllı telefonlar, uzay mekikleri, nükleer reaktörler gibi konseptlere işte bu çağda ulaşırız.
+
+yazılım, aslında bir bileme işidir. insan, gittikçe daha bilenmiş bıçaklar isteme eğilimindedir. bıçak, artık o kadar bilenmiştir ki, insanın elde tutabileceği bir cisimden çok bir konsepttir artık, ve insan, kendi yarattığı aletin altında ezilmektedir bile.
+
+bu mefhum, altında çok büyük teoriler barındırmaktadır. insanın, aslında herhangi bir şeyi efektif yapma arzusundan doğan araçlar ile beraber gelişmiş bilgi dağarcığının ve araçlarını önünü açtığı bu mefhumun geleceğini pek görebiliyor değiliz, belki de:
+
+seviye n: tekillik. insan simüle edildi. alet, sahibini tamamen geçti.
+********************************************
+40.
+3.dünya ülkelerinin kalkınması için son derece önemli bi fırsattır . yeterli bütçe ayrılırsa hem ekonomik yönden hem de yeni bir kulvar açma yönünden muhteşem bi fırsat . bi yatırımcı olmak için paraya ihtiyacın vardır yoktan var edemezsen eğer fakirsen . ama aktivasyon bilgisine sahip biri üstüne yığarak ilerler yazılımda . büyük paraları kazanacak olan temeline koydugun para değil beynin olacaktır . tek kelimeyle harika
+********************************************
+41.
+insan dilinden çıkan karmaşık bilgiyi, makinenin anlayacağı basit bilgiye çevirme işine verilen ad.
+********************************************
+42.
+icra edip aşığı olduğum alan.
+********************************************
+43.
+(bkz: #82836565)
+********************************************
+44.
+herhalde yazılım alanındaki eğitim dökümanları, internette pornodan sonra en yaygın bulunan içerik çeşidi.
+
+bu dökümanların kalitesi de yine pornoların kalitesine benzer; kötü.
+********************************************
+45.
+yazılım güvenliğine ilişkin detaylı bir yazı.
+https://medium.com/…same-origin-policy-a9f1fe917062
+********************************************
+46.
+kod uygulamalaridir. bu konuda calisan ya da ilerde calismak isteyen, bunun yaninda da avrupada ozellikle fransa, almanya ve ingilterede calismayi hedefleyenlere sektor, maas, ve teknolojiler konusunda fikir edinebilecekleri bir arastirmayi burada bulabilirler. https://medium.com/…oper-salary-report-fac3eea3959a
+
+bu arastirmada ilgi cekici noktalardan biri giris seviyesi uzmanlikta front-end gelistiricilerin full-stack gelistiricilere oranla almanyada daha fazla maas almalari. bunun nedeni tahminime gore herhangi bir alanda uzmanlasmamis "junior" gelistiricilerin kendilerini full-stack gelistirici olarak adlandirmalari.
+********************************************
+47.
+ülkemizde tek işi satışları dijitalde nasıl yükseltiriz sanılan meslek
+********************************************
+48.
+bu konu üzerine birçok araştırma yapsam da tam olarak istediğimi bulamadığım alandır kendileri.
+
+yani ingilizce öyle bir kaynak olacak ki programming üzerine genel anlamda yazılar olacak ve teknoloji üzerine ve o alanda ingilizce terimleri öğrenme şansım olacak okudukça hem de bilgi edineceğim bir siteden bahsediyorum.
+
+ancak böyle tam olarak sevebileceğim bir site bulamadım.
+
+medium, quora gibi sitelerden genel olarak okunabilir ayrı konu da dediğim şekil siteler ile aydınlatılır isem editlicem. ya da bulur ise kesinlikle editlicem. kesinlikle bilgilenmek ve bu alandaki terimleri kavramak için geride kalmamak için çok önemli olduğunu düşünüyorum güncel takip ve okumanın.
+
+edit ve öneriler;
+1) ----> tam olarak dediğim üzerine değil genel bilgilerden bahsediyordum. ama muazzam bir site. hayvani bir site bayıldım. "ebolaks"a çok teşekkürler.
+
+2) baya popüler bu konuda
+
+3) sadece 1 yazı okudum ancak çok beğendim. bu başlığı açma sebebimin tam olarak yansıması bu diyebilirim.
+
+okuduğum kadarı ile. 2. link de o misal ama arayüzünü beğenmiyorum onun yoksa baya kaliteli ve popüler bir site.
+birincisi ise konu dışı olsa da kusursuz. yeminle 3 kaynak da çok iyi editler miyim bilmiyorum daha bir site. hayvani bir site bayıldım. "ebolaks"a çok teşekkürler.
+
+2) baya popüler bu konuda
+
+3) sadece 1 yazı okudum ancak çok beğendim. bu başlığı açma sebebimin tam olarak yansıması bu diyebilirim.
+
+okuduğum kadarı ile. 2. link de o misal ama arayüzünü beğenmiyorum onun yoksa baya kaliteli ve popüler bir site.
+birincisi ise konu dışı olsa da kusursuz. yeminle 3 kaynak da çok iyi editler miyim bilmiyorum daha
+
+edit: yine ebolaksın önerisi ile bomba bir kaynak sizler ile;
+
+
+vallah bomba siteler.
+********************************************
+49.
+w3schools
+********************************************
+50.
+ingilizcesiz yazılım olamiyor zaten. yani eğer bu çeşmeden su içmek istiyorsan muhakkak o suyun içinde inglizce olmalı. mesleki ingilizce yazilim dili için yeterli olabilir belki ama kariyer için yeterli olmayacaktir.
+********************************************
+51.
+bu sektörden iğrenen biri olarak, kaderde matlab öğrenmeye çalışmak da varmış...
+********************************************
+52.
+günümüzde elle tutamadığımız her şey... evet hayallerimiz bile...
+********************************************
+53.
+yazmaktan çok bir düşünce biçimidir. yazılımın içine ayak bastığınızda yazmanın inanılmaz kolay, algoritma kurmanın daha zor olduğunu göreceksiniz. hangi dille başlayacağınızın hiçbir önemi yok yeter ki beyninizi bu düşünce biçiminde çalıştırın.
+********************************************
+54.
+1.yazılımda başlamak ve gelişmek. link.
+2.bilişime veya yazılıma nereden başlanır? link.
+3.yazılıma nereden başlanır? (15 yazılımcıya sorduk) link.
+4.yazılıma/programlamaya nereden başlamalıyım? link.
+********************************************
+55.
+mobil oyun sektörüne dair bir analiz:
+link
+********************************************
+56.
+sevgili romalilar size bir sorum olacak. şimdi benim kompleks bir bordro programina ihtiyacım var. bunu yazmanin maliyeti ve suresi ne kadar olur sizce?
+********************************************
+57.
+zamanında bilen bilir; kriz sonrası işsiz kalan insanlar arasında "tekstil mühendisliği 10k maaş alıyormuş laan" dedikodularıyla ilgili bölümün puanları fırlamış millet akın etmişti.
+
+şu an çöp bölüm oldu.mezunları polis .
+
+bu sektörde şu an bu halde. yazayım, ileride yazmıştım derim.
+
+adamların yapmış olduğu yazılım işinin işportasını hindistanlı yazılımcı lar halihazırda yapıyorlar. 2 dolara iş alıyorlar.
+
+milletin bildiğin hayalleriyle oynuyorlar ses eden yok.
+********************************************
+58.
+bu öyle bir tutku ki... sadece bir senedir bu işin içerisindeyim. birden bodoslama daldım. ilk haftadan sonra “ben neden bunu kendime yaptım ki?” sorularını kendime sormaya başladım.
+bazı günler o kursa giderken ayaklarım geri geri gitti. çok iyi hatırlıyorum. her sabah, kursun altında cafe olmasına rağmen, kurstan yeterince uzak bir starbucksta bir 15 dk kahve molası verirdim. kendime cesaret vermeye çalışırdım.
+“hadi bugün de git kızım wisss. gerekirse yarın cayarsın.” sürekli kendime bunları söylerdim.
+şansıma kursta, değişik bir hoca ile karşılaştım. zaten, hergün yapamayacağım korkusu yetmez gibi, 4 +2 ay boyunca, onun psikolojik şiddetine maruz kaldım.
+kocaman egosu altında, korkumdan zona çıkarttım. sadece o da değil. “kassam çocuğum olurdu” dediğim yaş gruplarının arasında, azar yedim. aşağılandım. onurum/ gururum. herşey ayakların altına alındı. üstüne haksız yere saygısız oldum. öğrencim olacak yaştaki çocuklardan “sen benden kaç yaş büyüksün. nasıl davranılcağını benden iyi bilmelisin” lafını bile yedim. yılmadım.
+kurstan çıktığımda, ailem sağlığımdan oluyorum diye apar topar beni şehir dışına kaçırdılar. 15 gün boyunca, bilgisayara dokunmama bile izin vermediler. yine yılmadım. projeyi bitircem diye hastanelik oldum. serum alırken, telefondan proje peşinde koştum. yine de yılmadım.
+bu öyle bir hastalık, öyle bir tutku ki... hala her gün “ben bu işi beceremiyorum. acaba bıraksam mı?” diyorum. bir senedir başıma gelmeyen kalmadı çünkü. sonra kendimi kodların arasında buluyorum. bazen bir satırlık kod için saatlerce/ bazen günlerce cebelleşiyorum. hatta bu zamana kadar tek seferde çalışan tek bir kod yazabildim. ama yine de insanın kanına girince zehir bir kez, karşına ne kadar zorluk çıksa da, “çık git projemden” korkusu, hayatının bir gerçeği olsa da, soru sormak için girdiğim grupları tinder gibi kullanmaya çalışan(sorduğun soruya cevaben “angular da çok zor yhaa” modunda özelden gelen saçma sapan adamlar gibi) adamlara rağmen, egolarını üstünde tatmin etmeye çalışan, duyduğun saygıyı gördükçe şımaran, kendini eğitimci (onun lafıyla “akademisyen”) sanan adamlara rağmen, hala bilgisayar başında, bazılarının 5 dakikada yazacağı kodları yazmak için saatlerce uğraşıp (çoğu zaman yardımsız başaramıyorum) hala kod çalıştıktan sonra “holeyyyyy” sesi çıkartıyorsam...
+yarın ne olur bilmiyorum. sonum ne olur bilmiyorum. ama bildiğim tek bir şey var. : bir senedir yaşamadığım kalmadı. direndim. son ana kadar da direnmeye devam edeceğim. başıma ne gelirse gelsin, kiminle karşılaşırsam karşılaşıyım. defalarca düşeyim. canım yansın/çuvallayım. umurumda değil.
+kimsenin bunu elimden almasına izin vermeyeceğim...
+********************************************
+59.
+kurslarda mobbinge maruz kalmadan öğrenebileceğiniz süper olay.
+bir araştırmaya göre yazılımcıların yüzde altmış dokuzu kendi başına öğrenmiş.
+kurtulamadı şu ülke kompleksli insanların yaptığı mobbingten.
+********************************************
+60.
+yazılım mühendisi & oyun geliştiricisi bilgem çakır ile yapılan şöyleşi link.
+********************************************
+61.
+kullandıkları elektrik miktarına göre programlama dillerinin sıralaması.
+
+1- c
+2- rust
+3- c++
+4- ada
+5- java
+
+https://twitter.com/…ail/status/1317495588833746944
+********************************************
+62.
+yapay zeka, makine öğrenmesi ve data bilimi üzerine derlenmiş güzel bir liste bırakıyorum.
+********************************************
+63.
+html, css, sass, flexbox, javascript, jquery,asp.net ile başladığım yolculuğuma sql, c# ve python ile devam etmeye çalışıyorum. c# ve python ile ilgili türkçe-ingilizce dökümanı olan suserler yeşillendirirse sevinirim.
+********************************************
+64.
+yeni bacasız sanayi.
+********************************************
+65.
+kafanızın çok çalışması ve uğraşmayı sevmeniz lazim yoksa okumayın yada uğraşmayın pişman olursunuz verdiğiniz emek boşa gider
+herkes yazılımcı olamaz
+********************************************
+66.
+ben ekip yöneticisi oldum bu cuma. iki gündür düşünüyorum ne yapacağım diye.
+
+o işler öyle olmuyor. yani bende olmadı.
+
+projeyi çok mu sahipleniyorum acaba.
+********************************************
+67.
+20-30 senelik geleceğini çok merak ettiğim alan. insan ve elektronik cihaz arasındaki bağlar git gide kuvvetlenirken, yavaş yavaş homo digitalis'e doğru evriliyoruz.
+
+nasıl 200-300 yıl önce insanların okuma yazma bilmemesi çok da garip bir durum değilse, ancak bugün içinde yaşadığımız dünya, okuma yazma bilmeyen insanı neredeyse kanunen yok sayacak derecede yazıyla bütünleştiyse, aynısının insan-makine ilişkisinde de yaşanacağına inananlardanım.
+
+bugün bu ilişki, yüzeysel bir biçimde gerçekleşiyor. artık devletle olan herhangi bir işinizde, veya bankacılık işlemleriyle ilgili bir talebinizde, dijital mecra birinci kanal olarak kullanılabiliyor. hatta devlet çoğu işlemde, “e-devletten çıkarın” demeye başladı bile. buraya kadar yaşanan gelişmeleri, sözlü dönemden yazılı döneme geçişin başladığı zamanlar gibi düşünüyorum. okuyabilenin yazıları okuduğu, okuayamayanların da birisine okuttuğu zamanlara…
+
+neyse, insan ve elektronik cihaz ilişkisi, bugünkü hızıyla ilerlediğinde yavaş yavaş ruhban sınıfına ihtiyaç kalmayacağını hissediyorum. mealen, nasıl okuma yazma bilmeyenler için söylenenleri yazan katipler vardıysa ve artık bu mesleğe ihtiyaç yoksa, yazılımcıların da ortadan kalkacağı fikrindeyim. bugün kod yazarak yapılabilen aksiyonların, yarın baştan sona görselleştirilmiş, hatta sesli komutla uygulanabilir hale getirilmiş bir biçimde herkesin erişimine açılacağı, hatta bilgisayarların kendilerine verilen brief doğrultusunda ihtiyaç duyulan programı kodlayabileceği; ve en önemlisi bütün bu teknolojinin genel tüketicinin erişimine açık olacağı zamanları bekliyorum.
+
+bugün belki düşüncelerim yazılımcıları öfkelendirecektir. olmaz öyle şey, yazılımcı olmadan hiçbir şey yapamazsınız diyenler olacaktır. kendilerine, son zamanlarda yavaş yavaş ortadan kalkan meslekleri hatırlatmak isterim. neticede her meslek, toplum ile teknik arasında kurulan bir köprüdür, en arkaik meslekler bile temelde toplumun ihtiyaç duyduğu bir teknik konuyu çözer, ürüne veya hizmete dönüştürür. toplumda tekniğe ulaşmak için bir aracıya gerek olmadığı, bilginin herkese ulaştırılabildiği bir duruma gelindiğinde, veya sözkonusu teknik artık toplum nezdinde ihtiyaç duyulmayan bir noktaya gerilediğinde, meslek de ortadan kalkar.
+
+yazılımda da benzer bir süreç işler mi? programlama dili gibi bir jargona olan ihtiyaç, en azından bugünkü anlamıyla ortadan kalkar mı? zaman gösterir. kişisel fikrim bu durumun gerçekleşeceği yönünde; hatta, yazılımcılığın ortadan kalkacağı günü, yine yazılımcıların kendisinin getireceği şeklinde.
+
+bu yazıyı, adobe premiere'de kurgu yaparken düşündüm. aklım şeritli, masalı, makaralı günlerde kurgu yapan insanlara gitti. filmlerin kurgusunun gerçekten film şeritlerinin kesilerek, boyanarak, yapıştırılarak yapıldığı dönemleri düşündüm. elbette, hala profesyonel filmcilikte, her aksiyonun bir uzmanı mevcut. ancak bir çocuk bile, bugün tablet bilgisayarı üzerinde video kesebiliyor. çok değil, 20-25 sene önce meslek erbabı olmayan insanların yapabileceği bir şey değildi bu.
+
+uzun uzun yazdım, özetleyeyim. insan ve bilgisayar yakınlaşması devam ettikçe, bu iletişimde aracı olan her parçanın, olabilecek en yüksek düzeyde hızlı ve etkili bir biçime gelecek şekilde evrimleşmesi gerekiyor. buna, iletişimin sınırlarını ve olanaklarını belirleyen yazılım ve yazılımcı da dahil.
+********************************************
+68.
+sektörde yelpaze genişlediği için gitgide daha niche yazılım geliştirme alanları doğuyor.
+
+örneğin; front-end için onlarca framework, back-end için onlarca framework. aynı amaca hizmet eden farklı diller...
+
+her başvurduğun şirket farklı bir teknoloji kullanıyor. o şirketteki kültür, kullanılan araç ve teknolojiler başka. önceki şirkette senior iken yeni şirkette junior durumuna düşüyorsun. ondan sonra haftalarca süren öğrenme süreçleri. burada kilit olan ne kadar tecrübeli olduğun. tecrübeliysen çok geçmeden adapte olabiliyorsun.
+********************************************
+69.
+yazılımın günümüz dünyasındaki durumu, bi çeşit endüstri devrimindeki buharlı makinaların keşfi gibi birşey.
+nasıl ki döneminde buharlı makinalar fabrikaların, lokomotiflerin, buharlı gemilerin önünü açıp büyük şehirler ve günümüz toplumunun temelini oluşturmuşsa, yazılımlarda yarının dünyasını benzer zeminde şekillendirerek oluşturuyor aslında.
+
+mesela, az evvel kullandığım bir yazılımdan aradılar.
+yeni entegrasyonlar gelmiş onun bilgisini geçiyorlar.
+bu sanal pos entegrasyonu, kargo entegrasyonu, akaryakıt entegrasyonu ile ilgili.
+örneğin akaryakıt entegrasyonu.. bu işlemde artık anlaşmalı markalardan aracıma benzini koyarken arabadan bile inmeyecekmişim.
+%4'te indirim sağlıyorlar. kredi/banka kartımı, ruhsat ve diğer bilgilerimi bir kere tanımlıyorum, bana bir barkod gönderiyorlar, bu barkodu benzin depo kapağıma yapıştırıyorum ve hiçbirşey yapmıyorum. benzinliğe gidip tüm faturalaşma, tahsilat vs işlemlerim kendiliğinden gerçekleşiyor ve şirket kayıtlarıma da daha önce entegre ettiğim banka ile beraber otomatik sisteme kaydım atılıyor. ben işlemi onayladıktan sonra veri otomatik oluşup vergi dairesine gönderilen beyanlara kadar insan eli dahil olmadan entegre bir şekilde ulaştırılıyor.(başka bir yazılımla birlikte)
+
+eğer yüzlerce filosu olan bir lojistik şirketi sahibiyseniz bu durum muazzam bir iş gücünün yok olması demektir.(ki yok olmuştur)
+benim gibi basit bir şahıs için bile bu durum muazzam kolaylık sağlıyor.
+yok personel gitmiş benzin istasyonundan 50 tl fiş kestirmiş 40 tl yüklemiş, yok fişi/faturası gelmemiş/kaybolmuş vs vs gerek yok bunlara artık.
+
+yine yeri gelmişken.. geçenlerde bir arkadaşıma uğradım.
+kendisi tekstil işi yapıyor, üretim vs..
+bir makina almış.
+makina tek kelime ile harika. asıl anlatmak istediğim konu da bu.
+
+makina 40 farklı dikiş atıyor. eğim verebiliyor. üzerinde farklı uçları mevcut ve bu uçlara farklı renkleri bağlıyorsun. altında da bir kamerası var.
+tezgahına kumaşı yerleştiriyorsun. önde bir ipad gibi ekranı var. burada yazılımları mevcut.
+bu pad'a bi fotoğraf koyuyorsun. ve data giriyorsun.
+atıyorum lacoste'ın amblemi olsun bu.
+bunun siyah dış çerçevesini x tipte sık dokuma yap diyorsun(makinanın dilinde bunun bir kodu var).
+iç kısmında y tipi ve 3 derece kullan yazıyorsun(aynı şekilde).
+kamera ile bölgeleri işaretliyorsun ve nerede ne renk kullanacağını sunuyorsun yazılıma.
+
+bu bi çeşit cnc tezgah gibi. veriyi yüklüyorsun ve makina başlıyor kumaşı işlemeye.
+yaklaşık 8 cm boyunda 4-5 cm eninde 7-8 farklı renge sahip bir resmi 13 dakikada insansız işliyor bu makina.
+
+sen hiçbirşey yapmıyorsun. herşey otomatik gerçekleşiyor.
+burada sadece gerekli şey resim ve resmi işleyebilmek için hangi dikiş şekli, rengi kullanıldıysa buna ait datalar.
+bu datayı istersen kendine özgü şekiller gerçekleştirip yaratabilirsin.
+nerede ne tipte işleme yapacağın, eğimin, sıklığı vs tamamı tasarımcı tarafından geliştirilebilir.
+
+yada geliştirilmiş bir veriyi ücretini ödeyip alır, bu makinada seri basıp satışını yaparsın.(bu arada tasarım yapıp data oluşturmakta ayrı ve yeni bir iş kolu. yazılımla beraber yaratıcılık istiyor.)
+bu elemanda bunu yapıyor.
+
+fakat birşey dikkatimi çekti bu sırada. bu makinada en az 20 işçi var..
+yazılım ve entegrasyon sistemleri ile beraber birleştirirsen eğer bi 10 işçiyi daha eritiyorsun.
+
+özellikle yeni çıkan yazılımlar beyaz yakayı hedef alır cinsten.
+sırf işim olsun, kişisel yaşamım olsun, kullandığım yazılımlar ve entegrasyonlarla birlikte bile bu iş hafiflemesini hissediyorum kendi üzerimde.
+daha geçen yıl el ile yaptığım şeyler bu yıl artık otomasyona bağlandı, elimi bile sürmez oldum.
+
+öyle görünüyor ki insanın ihtiyacı için gerekli tüm ürün ve hizmetlerin tedarik ve sevkinde yarının dünyasında insana pek ihtiyaç olmayacak gibi. elbet yeni iş kolları çıkacaktır fakat bunlar da yazılım menşeili iş kolları olacak gibi duruyor.
+
+işin ilginci dinamik daha da dinamikleşerek ilerliyor.
+değişim çok hızlı ve sert. bu iş tutar, bu iş ilerler, bu iş 50 yıl sürer demek günümüz dünyasında pek mümkün değil. her an yeni bir yazılım, yeni bir teknoloji, yeni bir cihaz yaptığınız işi silip süpürebilir. veya yeni bir sektör yaratabilir. zaten bu start-up meselesinin altındaki mantıkda bu ya neyse, bölmeyelim konuyu.
+
+bu noktada gelişmiş ve akıllı ülkelerin dünyanın dört bir tarafından neden yazılımcı ithal ettiklerini ve neden bolca paralar ödediklerini anlamak güç değil.
+yarının dünyası muhtemelen orta ve büyük şirketlere bir yazılımcı bulundurma zorunluluğunu da beraberinde getirecek gibi. zira artık yazılım işleri resmi işlerle de karışmış durumda. bilginin gizliliği bir kenara devletlerin verileri bile bu ortamlarda bulunuyor. devletlere veriyi sunan şirketlerde bile bu işi yazılımlar gerçekleştiriyor.
+
+birde yeni geliştirilen makinalar dudak uçuklatıyor. geçen gün bi fuarda gördüm, makina duvar tuğlalarını kendisi diziyor.
+üzerindeki sıvayı kendisi atıyor.
+bir kolu mevcut ve aynı dikiş makinasındaki gibi datayı sen giriyorsun, gerisini hallediyor.
+yazılım ve robot'un birleşimi inanılmaz gerçekten.
+bu cihazlar işçi sınıfını ortadan kaldıracak boyutta, henüz bu değişim tepelerde, sermaye sahibi büyük işlerde gerçekleşiyor. geniş ve alt kitlelere yayılmadığı için büyük bir kesim farkında değil.
+
+tabi yeni geliştirilen teknolojiler her zaman pahalı geliştirilir, tabana yayılmaz zaman alır bu nedenle. zamanla geniş kitlelere yayıldıkça,rekabet arttıkça, üretim maliyetine bağlı olarak ucuzlar. bu sisteminde genişlemesi ve oturması zaman alacak biraz fakat 3.dünya ülkeleri hariç bu ve bu gibi teknolojilerin yayılacağını ve sıradan bireylerin yaşamlarına dahil olacağını düşünüyorum. artık sonrasında da huxley'ın yeni dünya'sındaki gibi dünyayı vahşiler ve medeniler diye ikiye ayırırız.
+
+yazılım önemli birşey kısacası. yarının dünyasında hayatta kalabilmek için ne iş yapıyorsanız yapın bi şekilde yazılıma dahil olup öğrenin. en azından ana mantığını bilin. gidip app geliştireyim, site yaratayım meselesi değil bu mesele.
+otomasyon ve entegrasyonla birlikte 20-30 yıla kadar şuan ki iş kollarının büyük bir kısmı yok olacak veya şekil değiştirecek gibi duruyor.
+********************************************
+70.
+hangi alanda olacağına bağlı bir durum.
+öyle tek başına bir konu söylenemez.
+sonuçta yazılım ihtiyaca göre yapılır ve ihtiyaçlar birbirinden çok farklıdır.
+algoritma kurmak başka bir şey.
+temel olarak kısaca calculus denebilir; ancak açarsak başlıca matris determinant, karmaşık sayılar, türev, integral aklıma gelenler.
+********************************************
+71.
+belki her meslek bu gruba girebilir ama, iki ucu boklu degnek bir meslektir.
+
+bir yanda hergun yeni cikan, gelisen teknolojiler, stackler. bir yanda da konfor alaninin o dayanilmaz hafifligi.
+
+konfor alanina girdiginiz vakit is hayatiniz cok sikici ve bir ton amelasyon is ile dolup tasiyor, bu isleri kas hafizanizla bile kotarabiliyorsunuz. sadece biraz motivasyon ile ise baslamaniz yeterli, sonu geliyor... etrafinizi da; kaliteli is cikiyorum, bu isin oluru sizin dediginizin x2 kati adam gundur diye yiyebilirseniz, gotunuzu yayabilirsiniz.
+
+degnegin oteki ucu da arastirma, okuma, uygulama, fail olma, basarma vs... ilk baslarda eglenceli oluyor acikcasi, basarma duygusu endorfin salgilatmiyor degil... ancak bu sefer de; "bordroluyum amk ne kadar fazla calisirsam calisayim aldigim maas belli, beni deli mi sikti!" konumuna geliyorsunuz(geliyorum).
+
+meslegin 10. yilinda biraz sikilmadim degil.
+
+emeklilik 65, daha 30 yil var... bakalim onumuzdeki yillar neler gosterecek.
+********************************************
+72.
+insanlar artık yazılımlar için çalışacak.
+(bkz: yazılım öğren)*
+********************************************
